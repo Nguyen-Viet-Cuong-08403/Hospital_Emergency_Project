@@ -24,7 +24,7 @@ Biến dữ liệu thô của phòng cấp cứu bệnh viện thành thông tin
 
   + Thời gian bệnh nhân đợi và độ hài lòng:
 
-     + Thời gian chờ của bệnh nhân rơi vào khoảng 35,3 - điều này không thực sự tốt (thời gian chờ lý tưởng xây dựng là 30 phút), cần có biện pháp để giảm thời gian chờ này lại. Đồng thời mức độ hài lòng của khách hàng cũng thấp chỉ đạt khoảng 4.99/10, lý do một phần đến từ thời gian chờ quá
+     + Thời gian chờ của bệnh nhân rơi vào khoảng 35,3 phút - điều này không thực sự tốt (thời gian chờ lý tưởng xây dựng là 30 phút), cần có biện pháp để giảm thời gian chờ này lại. Đồng thời mức độ hài lòng của khách hàng cũng thấp chỉ đạt khoảng 4.99/10, lý do một phần đến từ thời gian chờ quá
 
   + Chuyển sang các bệnh viện khách
 
