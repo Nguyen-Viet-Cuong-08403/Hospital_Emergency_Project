@@ -8,5 +8,15 @@ Biến dữ liệu thô của phòng cấp cứu bệnh viện thành thông tin
 
 ### Chế độ xem tổng hợp (Consolidated View)
 
-![Overview].(Consolidated View.png)
+![Overview](ConsolidatedView.png)
+
+### Chế độ xem hàng tháng (Monthly View)
+
+![Overview](MonthlyView.png)
+
+### Chi tiết bệnh nhân (Patient View) 
+
+![Overview](PatientView.png)
+
+
 
