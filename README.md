@@ -8,3 +8,5 @@ Biến dữ liệu thô của phòng cấp cứu bệnh viện thành thông tin
 
 ### Chế độ xem tổng hợp (Consolidated View)
 
+![Overview].(Consolidated View.png)
+
